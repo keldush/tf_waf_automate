@@ -1,0 +1,3 @@
+module "tmwaf" {
+  source = "./tmwaf"
+}
